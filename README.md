@@ -3,4 +3,4 @@ Tic Tac Toe is a classic game typically played by two players, made for iOS Devi
 
 ## About
 
-This project was a part of [SwiftyCamp](https://www.facebook.com/SwiftyCamp)iOS Bootcamp.
+This project was a part of [SwiftyCamp](https://www.facebook.com/SwiftyCamp) iOS Bootcamp.
