@@ -10,6 +10,10 @@ import UIKit
 
 class ViewController: UIViewController {
         
+    override func viewDidLoad() {
+        Restart.isHidden = true
+    }
+    
     var activePlayer = 1 // X is Active
     var gameState = [0, 0, 0, 0, 0, 0, 0, 0, 0]
 
