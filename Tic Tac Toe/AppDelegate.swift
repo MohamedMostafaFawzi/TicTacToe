@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Tic Tac Toe
 //
-//  Created by Mohamed Canaria on 3/2/20.
+//  Created by Mohamed Mostafa Fawzi on 3/2/20.
 //  Copyright © 2020 Mohamed Mostafa Fawzi. All rights reserved.
 //
 
